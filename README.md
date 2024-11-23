@@ -10,4 +10,6 @@ My fifth project/activity is a basic program which ask the user for two number a
 
 My sixth project/activity is a basic loop program which ask the user to enter a number then the program multiply the number to 1 to 10.
 
+Hello so My seventh Actiivity is about do-while loop if you wanna know how it works go study it then anyways go check my activity and look if it is good or not thank you.
+
 To run or compile the program simply copy the program or download the cpp.main and then put it to your compiler and open it then debug the program to see any misinput and if thers non then your ready to run the program just find the run button in your compiler
